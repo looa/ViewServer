@@ -3,6 +3,12 @@
 此项目搬运自romainguy
 [原项目地址](https://github.com/romainguy/ViewServer)
 
+## Usage
+
+```groovy
+compile 'com.github.looa:ViewServer:1.0.0'
+```
+
 ## Intro
 ViewServer is a simple class you can use in your Android application
 to use the HierarchyViewer inspection tool.
